@@ -19,7 +19,7 @@ OpenAI's [Whisper](https://github.com/openai/whisper).
 ![Buzz](./buzz/assets/buzz-banner.jpg)
 
 ## Installation
-
+## By Mudassir Alam
 **PyPI**:
 
 Install [ffmpeg](https://www.ffmpeg.org/download.html)
